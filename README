@@ -23,8 +23,7 @@ MomentumOS is currently under active development. Many features are experimental
 - Build a Linux distro starting from the kernel, optimized for developer and scientific workflows  
 - Develop a clean, user-friendly desktop environment with integrated messaging and video services  
 - Support ARM (e.g., Raspberry Pi 5) and x86 architectures  
-- Create a custom package manager and repository system for easy software management  
-- Provide a modular and extensible platform suitable for research, development, and collaboration  
+ 
 
 ---
 
@@ -33,7 +32,7 @@ MomentumOS is currently under active development. Many features are experimental
 No stable releases yet. To follow development or contribute:
 
 ```bash
-git clone https://github.com/yourusername/MomentumOS.git
+git clone https://github.com/manpreetsingh1368/MomentumOS.git
 cd MomentumOS
 
 ## Support MomentumOS
