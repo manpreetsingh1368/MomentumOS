@@ -1,3 +1,41 @@
+# MomentumOS
+
+**MomentumOS** is a work-in-progress Linux-based operating system designed primarily for **developers, engineering students, and bioengineering professionals**. Our mission is to create a modern, lightweight desktop environment with integrated messaging and video services, optimized for productivity and innovation in technical and scientific fields.
+
+---
+
+## ⚠️ Work In Progress
+
+MomentumOS is currently under active development. Many features are experimental or incomplete. Expect rapid updates and evolving features.
+
+---
+
+## 🎯 Target Audience
+
+- **Developers** seeking a customizable and efficient Linux environment  
+- **Engineering students** who want a practical platform for learning and projects  
+- **Bioengineering professionals** needing integrated tools for communication and research workflows  
+
+---
+
+## 🚀 Project Goals
+
+- Build a Linux distro starting from the kernel, optimized for developer and scientific workflows  
+- Develop a clean, user-friendly desktop environment with integrated messaging and video services  
+- Support ARM (e.g., Raspberry Pi 5) and x86 architectures  
+- Create a custom package manager and repository system for easy software management  
+- Provide a modular and extensible platform suitable for research, development, and collaboration  
+
+---
+
+## 🛠️ Getting Started
+
+No stable releases yet. To follow development or contribute:
+
+```bash
+git clone https://github.com/yourusername/MomentumOS.git
+cd MomentumOS
+
 Linux kernel
 ============
 
